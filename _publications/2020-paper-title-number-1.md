@@ -1,11 +1,11 @@
 ---
 title: "Full-sphere binaural sound source localization using multi-task neural network"
 collection: publications
-<!--permalink: /publication/2020-paper-title-number-1-->
-<!-- excerpt: 'This paper is about the number 1. The number 2 is left for future work.'-->
-date: 2009-10-01
-<!--venue: 'Journal 1'-->
-<!-- slidesurl: 'http://academicpages.github.io/files/slides1.pdf' -->
+permalink: 
+excerpt: ' '
+date: 2020
+venue: 
+slidesurl: 'https://ieeexplore.ieee.org/abstract/document/9306260/'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/9306260/'
 citation: 'Y. Yang, J. Xi, W. Zhang, and L. Zhang, “Full-sphere binaural sound source localization using multi-task neural network,” in {\em Proc. APSIPA ASC}, 2020, pp. 432-436.'
 ---
