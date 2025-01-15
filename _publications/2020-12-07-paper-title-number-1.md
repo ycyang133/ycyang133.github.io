@@ -3,7 +3,7 @@ title: "Full-sphere binaural sound source localization using multi-task neural n
 collection: publications
 permalink: 
 excerpt: ' '
-date: 2020
+date: 2020-12-07
 venue: 
 slidesurl: 'https://ieeexplore.ieee.org/abstract/document/9306260/'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/9306260/'
