@@ -26,7 +26,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "CN / JP"
-  employer         : "Northwestern Polytechnical University / Waseda University"
+  employer         : "NWPU / Waseda U"
   uri              : # URL
   email            : "ycyang133@gmail.com" 
 
@@ -36,8 +36,8 @@ author:
   impactstory      : # URL
   orcid            : 
   semantic         : # URL
-  PubMed           : "https://www.researchgate.net/profile/Yichen-Yang-16"
-  researchgate     : # URL
+  PubMed           : 
+  researchgate     : "https://www.researchgate.net/profile/Yichen-Yang-16"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
