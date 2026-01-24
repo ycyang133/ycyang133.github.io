@@ -1,7 +1,7 @@
 ---
 title: "Independent vector analysis assisted adaptive beamforming for speech source separation on an acoustic vector sensor"
 collection: publications
-permalink: /publication/2022-09-05-paper-title-number-1
+permalink: /publication/2022-09-05-paper-title-number-2
 excerpt: ' '
 date: 2022-09-05
 venue: ' '
