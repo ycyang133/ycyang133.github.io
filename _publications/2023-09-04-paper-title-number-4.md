@@ -1,11 +1,8 @@
 ---
 title: "Geometrically constrained source extraction and dereverberation based on joint optimization"
 collection: publications
-permalink: /publication/2023-09-04-paper-title-number-4
-excerpt: ' '
+permalink: /publication/2023-09-04-4
 date: 2023-09-04
-venue: ' '
-slidesurl: 'https://ieeexplore.ieee.org/abstract/document/10289750'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/10289750'
 citation: 'Y. Yang, X. Wang, A. Brendel, W. Zhang, W. Kellermann, and J. Chen, “Geometrically constrained source extraction and dereverberation based on joint optimization,” in Proc. EUSIPCO, 2023, pp. 41-45.'
 ---
