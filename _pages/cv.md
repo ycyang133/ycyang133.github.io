@@ -18,7 +18,7 @@ Education
 
 Work experience
 ======
-* Spring 2026: Academic Pages Collaborator
+* Spring 2026: Research Engineer
   * Tencent
 
 * Summer 2020: Research Intern
