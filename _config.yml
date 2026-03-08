@@ -23,10 +23,10 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Yichen Yang"
-  pronouns         : # example: "she/her"  
-  bio              : "PhD candidate"
-  location         : "CN / JP"
-  employer         : "NWPU / Waseda U"
+  #pronouns         : "she/her"  
+  bio              : "Ph.D."
+  location         : "CN"
+  employer         : "Tencent"
   uri              : # URL
   email            : "ycyang133@gmail.com" 
 
